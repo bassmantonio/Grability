@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Grability</string>
+    <string name="action_settings">Settings</string>
+    <string name="categories">Categories</string>
+    <string name="btnback">Back</string>
+    <string name="summarytxt">Summary:</string>
+    <string name="pricetxt">Price:</string>
+    <string name="typetxt">Content Type:</string>
+    <string name="categorietxt">Category:</string>
+    <string name="rightstxt">Rights:</string>
+    <string name="releasetxt">Release:</string>
+    <string name="linktxt">App Link:</string>
+    <string name="artisttxt">Artist:</string>
+    <string name="no_internet_connection_for_download">Unable to connect with the server. Check your internet connection and try again.</string>
+    <string name="no_internet_connection_for_load_images">Please check your internet connection for complete load all application images.</string>
+</resources>
